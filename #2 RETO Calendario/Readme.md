@@ -1,21 +1,7 @@
-#Reto #2: EL PARTIDO DE TENIS
-Dificultad: Media | Publicación: 15/12/23 | Corrección: 17/12/23
-# Enunciado
-/*
- * Escribe un programa que muestre cómo transcurre un juego de tenis y quién lo ha ganado.
- * El programa recibirá una secuencia formada por "P1" (Player 1) o "P2" (Player 2), según quien
- * gane cada punto del juego.
- * 
- * - Las puntuaciones de un juego son "Love" (cero), 15, 30, 40, "Deuce" (empate), ventaja.
- * - Ante la secuencia [P1, P1, P2, P2, P1, P2, P1, P1], el programa mostraría lo siguiente:
- *   15 - Love
- *   30 - Love
- *   30 - 15
- *   30 - 30
- *   40 - 30
- *   Deuce
- *   Ventaja P1
- *   Ha ganado el P1
- * - Si quieres, puedes controlar errores en la entrada de datos.   
- * - Consulta las reglas del juego si tienes dudas sobre el sistema de puntos.   
- */
+# Reto #2: EL PARTIDO DE TENIS
+#### Dificultad: Media | Publicación: 18/12/23 | Corrección: 25/12/23
+
+## Enunciado
+
+El programa tiene que hacer lo siguiente:
+![image](https://github.com/MarcPerarnau/Retos-Programacion/assets/151735878/d69656d0-930a-41bd-b5b7-b53f0b86b847)
